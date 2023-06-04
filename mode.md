@@ -19,3 +19,27 @@
 - commmand press v => sau đó click các phím mũi tên để chọn.
 - Sau khi chọn có thể press d => để delete
 - press 2 lần Esc để thoát visual mode.
+
+
+- Để copy ta dùng command press y => copy.
+- Đế paste ta dùng command press p => paste.
+- select word and command press c => xóa đoạn chọn và edit tại đó.
+
+## Delete
+- command press d => xóa vùng được chọn
+- command press dd => xóa line hiện tại.
+- command press 5dd => xóa 5 line.
+- commnd press D => xóa từ vị trí con trỏ để cuối line.
+
+- Xóa line và chỉnh sửa ngay tại line đó ta dùng command press cc => xóa line và chỉnh sửa tại line đó.
+
+## Copy and paste
+- command press yy => copy line hiện tại.
+- command press 5p => paste 5 lần.
+- command press P (uppercase) => paste ở line trên.
+
+## Word and before word
+- command press w => nhảy tới word tiếp theo.
+- command press b => nhảy tới word trước đó.
+- command press W => bỏ qua ký tự được xem là tách word như ";" , "-"
+- 
