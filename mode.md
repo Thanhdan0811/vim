@@ -50,3 +50,28 @@
 - command press e => nhảy tới cuối cùng của woro.
 - command press $ => nhảy tới cuối hàng ở normal mode.
 - command press 0 => nhảy tới đẩu hàng ở normal mode.
+- command press d0 => xóa từ vị trí hiện tại đền đẩu line
+- command press d$ => xóa từ vị trí hiện tại đền cuối line.
+- command press yiw => copy toàn bộ word inner
+- command press ciw = xóa word và chỉnh sửa tại ví trí xóa đi.
+
+# Command normal mode
+- command press di" => xóa nội dung giữa dấu "
+- command press ci" => xóa nội dung giũa dấu " vả vào insert mode.
+- đặt con trỏ ở vị trí mở { , sau đó command press % => nhảy tới close }
+- command press d% => xóa tất cả ở giữa dấu {}
+- command press t[ký tự] => nhảy trước trước vị trí ký tự  => dt( => xóa từ vị trí con trỏ đến trước (
+- command press f[ký tư] => nhảy tới vị trí kí tự
+- command press T hoặc F => sẽ dảo ngược vị trí so với t, f
+
+- command press gg => nhảy tới đẩu file
+- command press G => nhảu tới cuối file
+- command press :lineNumber or linenumber + G => nhảy tới line cần nhảy
+
+# Tạo Indent
+- command press >> => tabs
+- command press << => shift tabs
+
+# Visual Line
+- command press Shift v => visual chọn line.
+- 
