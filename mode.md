@@ -42,4 +42,11 @@
 - command press w => nhảy tới word tiếp theo.
 - command press b => nhảy tới word trước đó.
 - command press W => bỏ qua ký tự được xem là tách word như ";" , "-"
-- 
+
+## Kết hợp delete word
+- command press d[nubmer of word]w => xóa word
+- command press diw => xóa word hiện tại nếu con trỏ nằm ở giữa.
+- command press ciw => xóa và edit word.
+- command press e => nhảy tới cuối cùng của woro.
+- command press $ => nhảy tới cuối hàng ở normal mode.
+- command press 0 => nhảy tới đẩu hàng ở normal mode.
